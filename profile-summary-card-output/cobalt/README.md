@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/suvincent/suvincent-profile-card/master/profile-summary-card-output/cobalt/4-productive-time.svg)
+```
+
+    
